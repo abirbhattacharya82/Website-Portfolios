@@ -65,3 +65,54 @@ body
 {
     margin-left: 15%;
 }
+.details1
+{
+    display: flex;
+    padding-left: 2%;
+    font-family: 'Nova Flat', cursive;
+    font-size: 30px;
+}
+.Hero1
+{
+    width: 200px;
+    border-radius: 200px;
+}
+.rightside1
+{
+    margin-right:5% ;
+}
+.row
+{
+    display: flex;
+    font-family: 'Nova Flat', cursive;
+}
+.row
+{
+    display: flex;
+    font-family: 'Nova Flat', cursive;
+}
+.row_breaker1
+{
+    display: flex;
+    width: 50%;
+    margin-left: 25%;
+}
+.row_breaker2
+{
+    display: flex;
+    width: 70%;
+    margin-left: 0%;
+}
+.icons_contactme
+{
+    width: 70px;
+}
+.detail_contact_me
+{
+    font-size: 25px;
+    padding: 1%;
+}
+.icons1
+{
+    width: 20px;
+}
