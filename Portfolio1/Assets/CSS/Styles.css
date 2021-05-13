@@ -7,8 +7,8 @@ body
 .Opener
 {
     width: 100%;
-    background-image: url("../Images/Background.jpg");
-    padding-bottom: 7%;
+    background-color: black;
+    padding-bottom: 5%;
 }
 .Hero
 {
@@ -33,7 +33,7 @@ body
 }
 .subtitle1
 {
-    color: rgb(4, 65, 12);
+    color: rgb(17, 161, 36);
     font-family: 'Reggae One', cursive;
     font-size: 25px;
     text-align: center;   
@@ -46,6 +46,14 @@ body
 {
     width: 40px;
     margin-left: 2%;
+}
+.AboutMe
+{
+    background-color:rgb(0,0,0);
+}
+.Resume
+{
+    background-color: black;
 }
 .Headings
 {
@@ -60,6 +68,7 @@ body
     padding-left: 15%;
     font-family: 'Nova Flat', cursive;
     font-size: 30px;
+    color: aqua;
 }
 .rightside
 {
@@ -71,6 +80,7 @@ body
     padding-left: 2%;
     font-family: 'Nova Flat', cursive;
     font-size: 30px;
+    color: aqua;
 }
 .Hero1
 {
@@ -115,4 +125,61 @@ body
 .icons1
 {
     width: 20px;
+}
+.Portfolio
+{
+    background-color: black;
+    padding-bottom: 3%;
+}
+.Items
+{
+    padding-left: 13%;
+    display: flex;
+}
+.Item1
+{
+    background-image: url("../Images/Portfolio/Portfolio1.png");
+    height: 300px;
+    width: 200px;
+}
+.portfolio_name1
+{
+    background: rgb(0,0,0,0.8);
+    color: seashell;
+}
+.Item2
+{
+    background-image: url("../Images/Portfolio/Portfolio2.png");
+    height: 300px;
+    width: 200px;
+    margin-left: 5%;
+}
+.portfolio_name2
+{
+    background: rgb(0,0,0,0.8);
+    color: seashell;
+}
+.Item3
+{
+    background-image: url("../Images/Portfolio/Portfolio3.png");
+    height: 300px;
+    width: 200px;
+    margin-left: 5%;
+}
+.portfolio_name3
+{
+    background: rgb(0,0,0,0.8);
+    color: seashell;
+}
+.Item4
+{
+    background-image: url("../Images/Portfolio/Portfolio4.png");
+    height: 300px;
+    width: 200px;
+    margin-left: 5%;
+}
+.portfolio_name4
+{
+    background: rgb(0,0,0,0.8);
+    color: seashell;
 }
