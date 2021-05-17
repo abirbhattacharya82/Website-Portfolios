@@ -1,0 +1,58 @@
+*
+{
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+body
+{
+    background: black;
+}
+.Head
+{
+    color: cornsilk;
+    font-size: 500%;
+    font-family: 'Cinzel Decorative', cursive;
+}
+.Subtitle
+{
+    color: cornsilk;
+    font-size: 200%;
+    font-family: 'Cinzel Decorative', cursive;
+}
+.Icons
+{
+    width: 3%;
+    margin-left: 2%;
+}
+.Opener
+{
+    padding-top: 15%;
+    padding-left: 10%;
+    background-image: url("../Images/Background.png");
+    background-size: 100%;
+    padding-bottom: 10%;
+}
+.About_me
+{
+    margin-top: 6%;
+    display: flex;
+}
+.contain
+{
+    display: flex;
+}
+.col1
+{
+    color: cornsilk;
+}
+.col2
+{
+    color: cornsilk;
+}
+.Hero
+{
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+}
