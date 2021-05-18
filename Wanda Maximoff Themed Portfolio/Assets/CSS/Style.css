@@ -69,55 +69,46 @@ body
 }
 .col2a
 {
-    margin-left: 2%;
+    margin-left: 5%;
     color: cornsilk;
     width: 40%;
 }
-.bar1
+.bar
 {
     border: 1px solid #c73c3c;
     color: #c73c3c;
     width: 70%;
+    font-size: 10%;
     background-color:#c73c3c;
     border-radius: 10px;
 }
-.bar2
+.skills
 {
-    border: 1px solid #c73c3c;
-    color: #c73c3c;
-    width: 60%;
-    background-color:#c73c3c;
-    border-radius: 10px;
+    font-size: 170%;
+    font-family: 'Parisienne', cursive;
+    padding-bottom: 5%;
 }
-.bar3
+.testimonials
 {
-    border: 1px solid #c73c3c;
-    color: #c73c3c;
-    width: 90%;
-    background-color:#c73c3c;
-    border-radius: 10px;
+    display: flex;
+    margin-left: 1%;
+    padding-bottom: 5%;
 }
-.bar4
+.card
 {
-    border: 1px solid #c73c3c;
-    color: #c73c3c;
-    width: 80%;
-    background-color:#c73c3c;
-    border-radius: 10px;
+    background-image: linear-gradient(rgb(0, 0, 0),rgb(34, 2, 2));
+    padding-left: 2%;
+    padding-right: 2%;
+    font-family: 'Parisienne', cursive;
+    font-size: 150%;
+    margin-right: 2%;
+    color: cornsilk;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    text-align: center;
 }
-.bar5
+.testimonials_pic
 {
-    border: 1px solid #c73c3c;
-    color: #c73c3c;
-    width: 20%;
-    background-color:#c73c3c;
-    border-radius: 10px;
-}
-.bar6
-{
-    border: 1px solid #c73c3c;
-    color: #c73c3c;
-    width: 50%;
-    background-color:#c73c3c;
-    border-radius: 10px;
+    width: 100px;
+    border-radius: 100px;
 }
