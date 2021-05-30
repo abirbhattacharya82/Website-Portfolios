@@ -3,16 +3,17 @@
     margin-top: 0%;
     margin-left: 0%;
     margin-right: 0%;
+    scroll-behavior: smooth;
     box-sizing: border-box;
 }
 .left_navbar
 {
     width: 20%;
     height: 100%;
-    background-color: aqua;
+    background-color: rgba(0, 255, 179, 0.438);
     text-align: center;
     font-size: 38px;
-    line-height: 150%;
+    line-height: 140%;
     padding-top: 1%;
     position: fixed;
 }
@@ -21,13 +22,49 @@
     margin-left: 20%;
 }
 
-
+/*Home*/
 .Opener
 {
     background-image: url("../Images/background.jpg");
     background-size: cover;
-    font-size: 90px;
     text-align: center;
     padding-top: 25%;
     padding-bottom: 23%;
+}
+.Opener .header
+{
+    font-size: 90px;
+}
+.Opener .subheader
+{
+    font-size: 30px;
+}
+
+/*About Me*/
+.AboutMe
+{
+    background-color: rgba(156, 202, 245, 0.356);
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+.AboutMe .header
+{
+    font-size: 70px;
+    color: rgb(111, 0, 255);
+    text-align: center;
+}
+.AboutMe .flexar
+{
+    font-size: 35px;
+    display: flex;
+    margin-top: 3%;
+}
+.AboutMe .col
+{
+    margin-left: 5%;
+    line-height: 50px;
+}
+.AboutMe .col .topic
+{
+    color: rgb(111, 0, 255);
 }
