@@ -1,0 +1,33 @@
+*
+{
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    box-sizing: border-box;
+}
+.left_navbar
+{
+    width: 20%;
+    height: 100%;
+    background-color: aqua;
+    text-align: center;
+    font-size: 38px;
+    line-height: 150%;
+    padding-top: 1%;
+    position: fixed;
+}
+.rest_of_the_body
+{
+    margin-left: 20%;
+}
+
+
+.Opener
+{
+    background-image: url("../Images/background.jpg");
+    background-size: cover;
+    font-size: 90px;
+    text-align: center;
+    padding-top: 25%;
+    padding-bottom: 23%;
+}
